@@ -19,3 +19,5 @@ init commit.
 
 同事第一次rebase 测试 commit
 
+同事第二次rebase 测试 commit
+
