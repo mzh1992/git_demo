@@ -17,6 +17,10 @@ init commit.
 
 远程合并解决冲突完成。
 
-
 测试 main rebase.
+
+同事第一次rebase 测试 commit
+
+同事第二次rebase 测试 commit
+
 
